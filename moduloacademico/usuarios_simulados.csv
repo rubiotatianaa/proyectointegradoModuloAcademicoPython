@@ -1,0 +1,8 @@
+nombre;correo;password_hash;rol;fecha_registro
+Crystal Cantu;danielle55@townsend.net;c44829b9372580f50ceb0f8576133e815e2a7adc87ae66921cd4595280b3db9e;admin;10/01/2025
+Michael Sanchez;bryanstephen@hotmail.com;4fc9a1c80e67217af8abd4dfd9215031c9043e176de620de2a6e792192ecb21f;admin;20/10/2024
+Dawn Morrison;cathy50@gmail.com;a9bec1d28fddc166450cbd27004bd2d67210c6985233046fa0e8c4f92b6f0bc0;docente;13/06/2024
+Erica Hernandez;lesliecollins@medina.com;8f89160adac511f891d004bf3820a3a25e905bc99b4bfa4fcf4b23d37910b0f7;admin;9/03/2025
+Vincent Willis;kyle74@hotmail.com;9cdadf332d71055146f3adcbf140c8c80d0e55960014327d3a5f6dc0409ca369;admin;7/02/2024
+Ian Gray;vburnett@hotmail.com;41d82196ebddf471377973ad6e525fa04fccfddf429469431c31c2258bcac930;admin;11/03/2024
+Mark Harrison;michael18@nelson.org;78201665a308c07cbdb54b98a9f98181a408c4906f054350a13ee9700077ef2f;admin;27/09/2024
